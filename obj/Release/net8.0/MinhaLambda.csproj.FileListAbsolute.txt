@@ -1,0 +1,17 @@
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\MinhaLambda.deps.json
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\MinhaLambda.runtimeconfig.json
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\MinhaLambda.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\MinhaLambda.pdb
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\Amazon.Lambda.Core.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.csproj.AssemblyReference.cache
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.AssemblyInfoInputs.cache
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.AssemblyInfo.cs
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLam.EB742DF0.Up2Date
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\refint\MinhaLambda.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.pdb
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\MinhaLambda.genruntimeconfig.cache
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\obj\Release\net8.0\ref\MinhaLambda.dll

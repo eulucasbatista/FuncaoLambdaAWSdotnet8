@@ -1,0 +1,6 @@
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\publish\MinhaLambda.deps.json
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\publish\MinhaLambda.runtimeconfig.json
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\publish\MinhaLambda.pdb
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Lucas\Projetos\MinhaLambda\src\MinhaLambda\bin\Release\net8.0\publish\MinhaLambda.dll
